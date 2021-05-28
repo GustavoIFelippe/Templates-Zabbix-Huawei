@@ -8,5 +8,7 @@
     - snmp-agent trap enable
     - undo snmp-agent trap enable feature-name bgp trap-name bgpBackwardTransNotification
     - undo snmp-agent trap enable feature-name bgp trap-name bgpEstablishedNotification
+- If you are using s6730, please put the following configuration:
+    - "set if-mib sample-interval 0"
 
 Zabbix Version 4.0.17
