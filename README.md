@@ -6,7 +6,7 @@ Functionalities:
     - PPPoE access-user count summary, and separated by Single-Tagged and Double-Tagged subinterfaces.
    
 OBS:   
-- Pay attention at discovery FILTERS os all templates.
+- Pay attention at discovery FILTERS of all templates.
 
 - If you need any files that's not included here, please be in touch by gustavoifelippe@hotmail.com, and I'll help you in my time.
 
